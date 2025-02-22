@@ -1,4 +1,4 @@
-# shredoscsvgenerator
+# ShredOS Customer CSV Generator
 Creates a new customer info CSV for ShredOS and writes it to USB sticks mounted at D: E: F: and G:
 
 WARNING: WILL OVERWRITE ANY CSV THAT IS CURRENTLY ON A SHREDOS USB STICK
