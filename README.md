@@ -13,3 +13,5 @@ COMING SOON:
   Backup feature to save the current CSV from all sticks to the user's documents folder
   Auto PDF backup from all drives containing ShredOS
   Any community requests (given I'm not overwhelmed with them)
+
+https://github.com/PartialVolume/shredos.x86_64
