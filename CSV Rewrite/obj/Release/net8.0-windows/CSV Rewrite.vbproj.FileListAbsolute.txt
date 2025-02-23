@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\bin\Release\net8.0-windows\CSV Rewrite.exe
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\bin\Release\net8.0-windows\CSV Rewrite.deps.json
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\bin\Release\net8.0-windows\CSV Rewrite.runtimeconfig.json
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\bin\Release\net8.0-windows\CSV Rewrite.dll
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\bin\Release\net8.0-windows\CSV Rewrite.pdb
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV_Rewrite.Form1.resources
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.AssemblyInfo.vb
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.dll
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\refint\CSV Rewrite.dll
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.pdb
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\CSV Rewrite.genruntimeconfig.cache
+C:\Users\user\source\repos\CSV Rewrite\CSV Rewrite\obj\Release\net8.0-windows\ref\CSV Rewrite.dll
